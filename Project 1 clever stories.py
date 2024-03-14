@@ -1,0 +1,18 @@
+adjective = input('Please enter the adjective: ')
+animal =  input('Please enter the animal: ')
+verb1 = input('Please enter you first verb: ')
+exclamation = input('Please enter an exclamation!: ')
+verb2 = input('Please enter you second verb: ')
+verb3 = input('Please enter your third verb: ')
+
+print("\n Your story is:")
+    
+print('The other day, i was really in trouble. its all')
+print('started when i saw a very')
+print(f'{adjective}", {animal}, {verb1} down the hallway."')
+print(f"{exclamation.upper()}! i yelled. But all")
+print(f'I could think to do was {verb2} over and over.')
+print('Miraculously,')
+print('that caused it to stop, but not before it tried to')
+print(f'{verb3}')
+print('right in front of my family.')
